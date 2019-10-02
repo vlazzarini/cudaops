@@ -2,9 +2,7 @@
 /* pvsops.cu
   experimental cuda opcodes
 
-  (c) Victor Lazzarini, 2013
-
-  based on M Puckette's pitch tracking algorithm.
+  (c) Victor Lazzarini, 2016
 
   This file is part of Csound.
 

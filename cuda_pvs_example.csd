@@ -11,11 +11,11 @@ instr 1
 ifftsize = 4096
 ihopsize = 512
 asig = diskin2:a("flutec3.wav",1,0,1)
-fsig = cudanal(asig, 
+fsig = cudanal2(asig, 
                ifftsize, 
                ihopsize, 
                ifftsize, 1)
-asig = cudasynth(fsig)
+asig = cudasynth2(fsig)
 asig = linenr(asig,0.005,0.01,0.01)    
    out(asig)
 endin
@@ -38,3 +38,20 @@ i1 0 60
 </CsScore>
 </CsoundSynthesizer>
 
+<bsbPanel>
+ <label>Widgets</label>
+ <objectName/>
+ <x>100</x>
+ <y>100</y>
+ <width>320</width>
+ <height>240</height>
+ <visible>true</visible>
+ <uuid/>
+ <bgcolor mode="nobackground">
+  <r>255</r>
+  <g>255</g>
+  <b>255</b>
+ </bgcolor>
+</bsbPanel>
+<bsbPresets>
+</bsbPresets>
