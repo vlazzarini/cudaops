@@ -1,0 +1,22 @@
+shifttests2.csd
+
+hopsize 128 : fftsize 1024 : instrument 4 : 3.760
+hopsize 128 : fftsize 2048 : instrument 4 : 3.980
+hopsize 128 : fftsize 4096 : instrument 4 : 4.401
+hopsize 128 : fftsize 8192 : instrument 4 : 5.408
+hopsize 128 : fftsize 16384 : instrument 4 : 8.575
+hopsize 256 : fftsize 1024 : instrument 4 : 2.184
+hopsize 256 : fftsize 2048 : instrument 4 : 2.289
+hopsize 256 : fftsize 4096 : instrument 4 : 2.472
+hopsize 256 : fftsize 8192 : instrument 4 : 2.921
+hopsize 256 : fftsize 16384 : instrument 4 : 4.512
+hopsize 512 : fftsize 2048 : instrument 4 : 1.398
+hopsize 512 : fftsize 4096 : instrument 4 : 1.478
+hopsize 512 : fftsize 8192 : instrument 4 : 1.666
+hopsize 512 : fftsize 16384 : instrument 4 : 2.495
+hopsize 1024 : fftsize 4096 : instrument 4 : 1.010
+hopsize 1024 : fftsize 8192 : instrument 4 : 1.096
+hopsize 1024 : fftsize 16384 : instrument 4 : 1.438
+hopsize 2048 : fftsize 8192 : instrument 4 : 0.808
+hopsize 2048 : fftsize 16384 : instrument 4 : 0.914
+hopsize 4096 : fftsize 16384 : instrument 4 : 0.720

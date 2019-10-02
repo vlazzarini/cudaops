@@ -1,0 +1,22 @@
+filtertests2.csd
+
+hopsize 128 : fftsize 1024 : instrument 4 : 4.651
+hopsize 128 : fftsize 2048 : instrument 4 : 4.928
+hopsize 128 : fftsize 4096 : instrument 4 : 5.545
+hopsize 128 : fftsize 8192 : instrument 4 : 7.114
+hopsize 128 : fftsize 16384 : instrument 4 : 12.865
+hopsize 256 : fftsize 1024 : instrument 4 : 2.673
+hopsize 256 : fftsize 2048 : instrument 4 : 2.828
+hopsize 256 : fftsize 4096 : instrument 4 : 3.067
+hopsize 256 : fftsize 8192 : instrument 4 : 3.832
+hopsize 256 : fftsize 16384 : instrument 4 : 6.509
+hopsize 512 : fftsize 2048 : instrument 4 : 1.682
+hopsize 512 : fftsize 4096 : instrument 4 : 1.783
+hopsize 512 : fftsize 8192 : instrument 4 : 2.056
+hopsize 512 : fftsize 16384 : instrument 4 : 3.441
+hopsize 1024 : fftsize 4096 : instrument 4 : 1.159
+hopsize 1024 : fftsize 8192 : instrument 4 : 1.280
+hopsize 1024 : fftsize 16384 : instrument 4 : 1.862
+hopsize 2048 : fftsize 8192 : instrument 4 : 0.909
+hopsize 2048 : fftsize 16384 : instrument 4 : 1.066
+hopsize 4096 : fftsize 16384 : instrument 4 : 0.797
