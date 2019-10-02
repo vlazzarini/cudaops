@@ -1,0 +1,13 @@
+scaletests.csd
+
+hopsize 128 : fftsize 1024 : instrument 1 : 15.585
+hopsize 128 : fftsize 1024 : instrument 2 : 219.820
+hopsize 128 : fftsize 1024 : instrument 3 : 219.491
+hopsize 128 : fftsize 2048 : instrument 1 : 33.685
+hopsize 128 : fftsize 2048 : instrument 2 : 230.070
+hopsize 128 : fftsize 2048 : instrument 3 : 226.567
+hopsize 128 : fftsize 4096 : instrument 1 : 74.182
+hopsize 128 : fftsize 4096 : instrument 2 : 238.505
+hopsize 128 : fftsize 4096 : instrument 3 : 229.683
+hopsize 128 : fftsize 8192 : instrument 1 : 157.703
+hopsize 128 : fftsize 8192 : instrument 2 : 252.985

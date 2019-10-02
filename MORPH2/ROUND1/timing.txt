@@ -1,0 +1,22 @@
+morphtests2.csd
+
+hopsize 128 : fftsize 1024 : instrument 4 : 4.646
+hopsize 128 : fftsize 2048 : instrument 4 : 4.971
+hopsize 128 : fftsize 4096 : instrument 4 : 5.563
+hopsize 128 : fftsize 8192 : instrument 4 : 7.118
+hopsize 128 : fftsize 16384 : instrument 4 : 12.431
+hopsize 256 : fftsize 1024 : instrument 4 : 2.637
+hopsize 256 : fftsize 2048 : instrument 4 : 2.774
+hopsize 256 : fftsize 4096 : instrument 4 : 2.995
+hopsize 256 : fftsize 8192 : instrument 4 : 3.740
+hopsize 256 : fftsize 16384 : instrument 4 : 6.402
+hopsize 512 : fftsize 2048 : instrument 4 : 1.659
+hopsize 512 : fftsize 4096 : instrument 4 : 1.770
+hopsize 512 : fftsize 8192 : instrument 4 : 2.045
+hopsize 512 : fftsize 16384 : instrument 4 : 3.443
+hopsize 1024 : fftsize 4096 : instrument 4 : 1.158
+hopsize 1024 : fftsize 8192 : instrument 4 : 1.288
+hopsize 1024 : fftsize 16384 : instrument 4 : 1.863
+hopsize 2048 : fftsize 8192 : instrument 4 : 0.909
+hopsize 2048 : fftsize 16384 : instrument 4 : 1.073
+hopsize 4096 : fftsize 16384 : instrument 4 : 0.801

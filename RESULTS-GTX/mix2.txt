@@ -1,0 +1,22 @@
+mixtests2.csd
+
+hopsize 128 : fftsize 1024 : instrument 4 : 4.638
+hopsize 128 : fftsize 2048 : instrument 4 : 4.916
+hopsize 128 : fftsize 4096 : instrument 4 : 5.521
+hopsize 128 : fftsize 8192 : instrument 4 : 7.089
+hopsize 128 : fftsize 16384 : instrument 4 : 12.314
+hopsize 256 : fftsize 1024 : instrument 4 : 2.618
+hopsize 256 : fftsize 2048 : instrument 4 : 2.765
+hopsize 256 : fftsize 4096 : instrument 4 : 2.986
+hopsize 256 : fftsize 8192 : instrument 4 : 3.722
+hopsize 256 : fftsize 16384 : instrument 4 : 6.372
+hopsize 512 : fftsize 2048 : instrument 4 : 1.654
+hopsize 512 : fftsize 4096 : instrument 4 : 1.766
+hopsize 512 : fftsize 8192 : instrument 4 : 2.039
+hopsize 512 : fftsize 16384 : instrument 4 : 3.434
+hopsize 1024 : fftsize 4096 : instrument 4 : 1.160
+hopsize 1024 : fftsize 8192 : instrument 4 : 1.282
+hopsize 1024 : fftsize 16384 : instrument 4 : 1.859
+hopsize 2048 : fftsize 8192 : instrument 4 : 0.908
+hopsize 2048 : fftsize 16384 : instrument 4 : 1.069
+hopsize 4096 : fftsize 16384 : instrument 4 : 0.799

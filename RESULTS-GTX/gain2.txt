@@ -1,0 +1,22 @@
+gaintests2.csd
+
+hopsize 128 : fftsize 1024 : instrument 4 : 3.360
+hopsize 128 : fftsize 2048 : instrument 4 : 3.570
+hopsize 128 : fftsize 4096 : instrument 4 : 3.985
+hopsize 128 : fftsize 8192 : instrument 4 : 4.967
+hopsize 128 : fftsize 16384 : instrument 4 : 8.193
+hopsize 256 : fftsize 1024 : instrument 4 : 1.952
+hopsize 256 : fftsize 2048 : instrument 4 : 2.052
+hopsize 256 : fftsize 4096 : instrument 4 : 2.231
+hopsize 256 : fftsize 8192 : instrument 4 : 2.692
+hopsize 256 : fftsize 16384 : instrument 4 : 4.304
+hopsize 512 : fftsize 2048 : instrument 4 : 1.289
+hopsize 512 : fftsize 4096 : instrument 4 : 1.373
+hopsize 512 : fftsize 8192 : instrument 4 : 1.554
+hopsize 512 : fftsize 16384 : instrument 4 : 2.385
+hopsize 1024 : fftsize 4096 : instrument 4 : 0.948
+hopsize 1024 : fftsize 8192 : instrument 4 : 1.035
+hopsize 1024 : fftsize 16384 : instrument 4 : 1.377
+hopsize 2048 : fftsize 8192 : instrument 4 : 0.778
+hopsize 2048 : fftsize 16384 : instrument 4 : 0.881
+hopsize 4096 : fftsize 16384 : instrument 4 : 0.701
